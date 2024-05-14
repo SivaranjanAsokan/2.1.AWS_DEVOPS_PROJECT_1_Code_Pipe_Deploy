@@ -1,10 +1,10 @@
-DEPLOYMENT THROUGH CICD (GIT/JENKINS/AWS_SERVICES)
+#DEPLOYMENT THROUGH CICD (GIT/JENKINS/AWS_SERVICES)
 Sivaranjan Asokan
 ♾️DevOps Engineer || ☁️ AWS Cloud || 🤵🏻 Jenkins || 🐳 Docker || 🚀Terraform || ☸️ K8s || 🐧Linux ||🔗Git@GitHub
 1 article
 May 14, 2024
 
-Open Immersive Reader:
+#Open Immersive Reader:
 CICD-Static-Page-Deployment: Full-PROJECT With Doc
 
 #AWS Services:
