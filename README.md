@@ -1,1 +1,0 @@
-# CICD-Static-web-deployment
