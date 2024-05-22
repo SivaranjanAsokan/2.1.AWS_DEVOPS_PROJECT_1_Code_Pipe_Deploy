@@ -1,4 +1,6 @@
 #DEPLOYMENT THROUGH CICD (GIT/JENKINS/AWS_SERVICES)
+![image](https://github.com/SivaranjanAsokan/CICD-Static-web-deployment/assets/163242501/f361edaa-a986-4bd9-98fd-37a2e4904069)
+
 Sivaranjan Asokan
 ♾️DevOps Engineer || ☁️ AWS Cloud || 🤵🏻 Jenkins || 🐳 Docker || 🚀Terraform || ☸️ K8s || 🐧Linux ||🔗Git@GitHub
 1 article
